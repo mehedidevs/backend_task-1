@@ -1,7 +1,6 @@
 package com.example.Backend.Task1.endpoints;
 
 import com.example.Backend.Task1.models.entities.Post;
-import com.example.Backend.Task1.models.dtos.PostDTO;
 import com.example.Backend.Task1.services.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
